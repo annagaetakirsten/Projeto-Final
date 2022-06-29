@@ -10,9 +10,9 @@ O Site "Projeto Final" disponibiliza uma calculadora com 7 operações sendo ela
  
  ##  Download
 
-[Clique aqui]()
+ 🌈 [Clique aqui]() ☀️
 
-
+ 
  ## Agradecimentos
 
 - [Diego Neri](https://github.com/diegoneri)

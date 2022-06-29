@@ -12,8 +12,8 @@ Console.WriteLine("[/] Divisão");
 Console.WriteLine("[%] Exponciação");
 Console.WriteLine("[!] Radiciação");
 Console.WriteLine("[#] MediAritmetica");
-Console.WriteLine("[#] Sair");
-Console.WriteLine("[#] Sobre");
+Console.WriteLine("[>] Sair");
+Console.WriteLine("[<] Sobre");
 
 Console.Write("\nSelecione a operação desejada: ");
 

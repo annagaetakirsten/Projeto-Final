@@ -33,10 +33,32 @@ switch (opcaoDesejada)
        Calculadora.CalcularMultiplicacao();
 
         break;
+    case "%":
+      Calculadora.CalcularExponciação();
+             break;
+
     case "/":
       Calculadora.CalcularDivisao();
       
+      
         break;
+    case "!":
+      Calculadora.CalcularRadiciação();
+      
+            break;
+    case ">":
+      Calculadora.ExibeSair();
+      
+       
+        break;
+    case "#":
+      Calculadora.CalcularMediAritmetica();
+      
+              break;
+    case "<":
+      Calculadora.ExibeMiniintroduçao();
+      break;
+      
     default:
         Console.WriteLine("Opção inválida.");
         break;

@@ -96,7 +96,7 @@ public class Calculadora
     }
 
 
-        public static void CalculanerExponciação()
+        public static void CalcularExponciação()
         {
             Double Potencia, NumeroElevado, NumeroExpoente;
 

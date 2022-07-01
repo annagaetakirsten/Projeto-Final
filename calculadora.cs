@@ -120,7 +120,7 @@ public class Calculadora
             Console.ReadKey(); 
         }
 
-        static void CalcularRadiciação()
+        public static void CalcularRadiciação()
         {
             Double Opcao;
             Double Raiz;
